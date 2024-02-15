@@ -1,0 +1,12 @@
+Nova Corporation Research Area 11 Power Proposal
+mystery3525
+
+Power Source Options:
+Viable sources of electricity that could be used in the Antarctic climate. Below are listed from most probable to more outlandish options.
+- Windmill generators: 5-10 windmills scattered around the map (see attached image on possible locations) 
+- Diesel Generators: Several (no more than 5 at any given place) generators of different sizes. Recommended configuration is 3-5 large generators at the main encampment and 2-3 small generators at the Entity encampment (backup)
+- Melting Man Generator: My personal suggestion; Due to the fact that EL-AAA produces infinite steam/smoke (requires further study), it is possible to dump cold water onto the entity, and it will therefore heat that water to the point it becomes steam. That steam will then pass through turbines like a typical combustible fuel power plant
+- Nuclear Power Plant: A small-scale nuclear reactor has been installed at Antarctica, however operational and repair costs deemed it not as cost effective. Including this as an option
+- Solar Panels: Least likely scenario, as solar panels would be as large, if not twice the size of the test subject encampment to provide enough electricity to RA-11 sized base
+
+Scripting:
