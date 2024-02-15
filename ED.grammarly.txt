@@ -1,0 +1,42 @@
+Engineering Department Proposal
+By: mystery3525
+
+This proposal serves as a conceptualization of the department and is no way a hard-lined guideline for it.
+
+Purpose
+Engineering Department is should be the backbone of the Nova Corporation's main sites, and in lore, was founded due to the increased necessity for a dedicated department managing technical aspects of the sites.
+
+Basic Premise:
+For Engineering Department, I am suggesting that, instead of creating groups for specific subdivisions of ED, the specialization for ED should become more in line with the real world, where you are not locked into one task and have the ability to change. ED's subdivisions, which I am proposing to be called "Task Forces" (modeled after real-world examples of engineering task forces)
+ should have the ability to have fluid member changes (Not Roblox Group based, perhaps Trello or a specific application based). This could save Robux (not that that is an issue), time and effort in creating and maintaining ED's "Task Forces", and also means that task forces can be disbanded after their purpose has been served, or new situations arise. Another difference in sub-divisions and these Task Forces is the fact that they do not have a standard member cap, instead have a percentile (%) cap, as in only a percent of personnel in ED can be in a Task Force. One dedicated personnel also can join multiple Task Forces, however, entrance into the Task Forces should be much more difficult if someone already is in one.
+
+For all members:
+Engineering Department plays a pivotal role in daily operations in the Nova Corporation's sites, and as such should be given plenty of different opportunities to do what they do. For all members of ED, they should be allowed to have priority suggestions related to Nova Corporation's sites (see "Proposals" for more information). All ED members will be able to join the team, and when on the team that can provide supplies. All ED personnel also can construct structures in-game, such as barricades, or makeshift humvee trailers (?).
+
+Proposed Task Forces (Names can be changed):
+Note: This list is suggestions on possible task forces, and there are plentiful due to the above-stated fact of one person could have multiple trades in real life
+- Logistical Engineers: ED personnel trained in specifically managing the complex logistical infrastructure of Nova Corporation's sites. Their duties include, but are not limited to, actually ordering supplies to be brought into the facility in-game, coordinating flying vehicle takeoff and landing (in a non-emergency situation), and authorizing specific pieces of machinery to be used in controlling a riot, to studying an Entity.
+- Mechanized Mechanics (bad name): ED personnel trained in the repair of damaged vehicles. Enough said.
+- Telecommunication Experts: (If suggestion added): Essentially has authority over terminals, Nova Corporation on-site servers, and long-distance communications (in the event of electronic failure on-site)
+- Machine Operators: Personnel tasked with maintaining static devices at facilities. Some Examples include generators, Electrical Devices used in maintaining containment, and
+- Records and Information Authority (RAI): (Could be moved into Development Branch) Personnel responsible for maintaining Nova Corporation Assents outside of Roblox, such as Virtual Private Servers. All members in this TF will need to be highly trusted and properly vetted by the Department of Operations for InfoSec reasons.
+
+Outside Cooperation:
+Below are potential ways for the ED could interact with other departments:
+- Security Corps: Supplying ammo and vehicles en masse to security corps. ED would order a vehicle on a terminal, and it will be delivered at a location
+ -> The Crazies: Communicating information on entities to ED, by which ED will design proper containment cells for entities.
+ -> Iron Fist: ED will supply IF with proper vehicle support, which includes logistically moving vehicles into glacier when replacements are needed, and providing on-the-fly mechanical assistance.
+- Innovation Department:
+ -> HL: Communicating with ED members to create mechanical devices to use in their experimentation.
+ -> The Red Corpsmen: Working with ED to supply medical equipment, and suggest new technologies.
+- Regulations Department: Ensuring that all members of ED abide by the corporation-wide guidelines.
+- Department of Operations: Vetting Higher-security personnel, especially those in the RAI.
+
+Proposals:
+A Secondary, yet crucial part, of the Engineering Department, is the creativity off-site, in the form of suggesting changes to be made to various parts of Nova Corporation's physical assets. However, there must be order to chaos. This order is in the form of structured, approved suggestions, named "Proposals". Proposals are formatted, thought-out suggestions (typically in google docs), that are numbered for easier reference. A Proposal can be anything (that is related to a Nova Corporation physical asset, cannot be related to any off-site structure or concept), and goes well with documentation and diagrams, however, taking the real-world example (IEEE), a proposal cannot be on a duplicated concept, only be a "revision suggestion" (For Example, Proposal ED 25.2). Approved and Documented Proposals can then be sent to the Development Branch for review.
+
+Final Notes:
+- Entrance into ED: Unlike other departments, I am suggesting that, for ED, there should be a smaller application, along with an attached piece of "creative works" in the form of a mock suggestion. This would distinguish ED as actually looking for people who can satisfy one of the pieces of ED's purpose. There isn't a defined form for the "creative works", it could be a drawing, or diagram, or full-on google document.
+- Ranks: I have no clue what the ranks should be, and I can't recommend any ranking names.
+ -> However pt1: For each of ED's Task Forces, there should be a designated "lead" member, along with a handful of "senior" members, regular members, and potentially "junior" members acting as a trial-period for entering the Task Force.
+ -> However pt2: To act as a hard limit, any given person can only be a "Lead" member in one Task Force, can only be a "Senior" member in another task force, and a max of 2 "Regular" members (If ED ever reaches a point to where it has over 4 TF's).
